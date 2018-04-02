@@ -1,2 +1,0 @@
-# ChromaticTest
-Created with CodeSandbox
